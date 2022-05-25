@@ -1,0 +1,9 @@
+2022-05-25 14:56:52.466  INFO 21780 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 15.0.2 on BRILAP2927 with PID 21780 (C:\Users\dharmendra.sharma\OneDrive - Brillio\Documents\LoggingDemo\LogsDemo\demo\build\classes\java\main started by Dharmendra.Sharma in C:\Users\dharmendra.sharma\OneDrive - Brillio\Documents\LoggingDemo\LogsDemo\demo)
+2022-05-25 14:56:52.472  INFO 21780 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-05-25 14:56:54.265  INFO 21780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-05-25 14:56:54.279  INFO 21780 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-25 14:56:54.281  INFO 21780 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-25 14:56:54.512  INFO 21780 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-25 14:56:54.513  INFO 21780 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1920 ms
+2022-05-25 14:56:55.555  INFO 21780 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-05-25 14:56:55.576  INFO 21780 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.712 seconds (JVM running for 4.388)
